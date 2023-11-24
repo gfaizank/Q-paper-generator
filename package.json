@@ -1,0 +1,16 @@
+{
+  "name": "questionpapergenerator",
+  "version": "1.0.0",
+  "description": "Creates a question paper from scratch based on user input's of total marks and difficulty distribution.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Faizan Khan",
+  "license": "ISC",
+  "dependencies": {
+    "pdfkit": "^0.14.0",
+    "pdfmake": "^0.2.8",
+    "readline-sync": "^1.4.10"
+  }
+}

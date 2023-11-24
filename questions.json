@@ -1,0 +1,878 @@
+[
+    {
+      "question": "What is the speed of light",
+      "subject": "Physics",
+      "topic": "Waves",
+      "difficulty": "Easy",
+      "marks": 5
+    },
+    {
+      "question": "Define Newton's laws of motion",
+      "subject": "Physics",
+      "topic": "Mechanics",
+      "difficulty": "Medium",
+      "marks": 10
+    },
+    {
+      "question": "Solve the quadratic equation",
+      "subject": "Mathematics",
+      "topic": "Algebra",
+      "difficulty": "Hard",
+      "marks": 15
+    },
+    {
+      "question": "What is the capital of France",
+      "subject": "Geography",
+      "topic": "Countries",
+      "difficulty": "Easy",
+      "marks": 5
+    },
+    {
+      "question": "Explain the process of photosynthesis",
+      "subject": "Biology",
+      "topic": "Ecology",
+      "difficulty": "Medium",
+      "marks": 10
+    },
+    {
+      "question": "Who wrote Hamlet",
+      "subject": "Literature",
+      "topic": "Shakespeare",
+      "difficulty": "Hard",
+      "marks": 15
+    },
+    {
+      "question": "What is the largest planet in our solar system",
+      "subject": "Astronomy",
+      "topic": "Planets",
+      "difficulty": "Medium",
+      "marks": 8
+    },
+    {
+      "question": "Simplify the square root of 144",
+      "subject": "Mathematics",
+      "topic": "Algebra",
+      "difficulty": "Easy",
+      "marks": 6
+    },
+    {
+      "question": "Name the elements in the periodic table",
+      "subject": "Chemistry",
+      "topic": "Elements",
+      "difficulty": "Hard",
+      "marks": 12
+    },
+    {
+      "question": "What is the main function of the respiratory system",
+      "subject": "Biology",
+      "topic": "Anatomy",
+      "difficulty": "Medium",
+      "marks": 8
+    },
+    {
+      "question": "Who discovered penicillin",
+      "subject": "Medicine",
+      "topic": "History",
+      "difficulty": "Hard",
+      "marks": 12
+    },
+    {
+      "question": "Solve the equation 2x + 5 = 15",
+      "subject": "Mathematics",
+      "topic": "Algebra",
+      "difficulty": "Easy",
+      "marks": 6
+    },
+    {
+      "question": "What is the capital of Japan",
+      "subject": "Geography",
+      "topic": "Countries",
+      "difficulty": "Easy",
+      "marks": 5
+    },
+    {
+      "question": "Describe the water cycle",
+      "subject": "Environmental Science",
+      "topic": "Hydrology",
+      "difficulty": "Medium",
+      "marks": 10
+    },
+    {
+      "question": "Who won the Nobel Prize in Physics in 2020",
+      "subject": "Physics",
+      "topic": "Nobel Prize",
+      "difficulty": "Hard",
+      "marks": 15
+    },
+    {
+        "question": "Explain the process of cellular respiration",
+        "subject": "Biology",
+        "topic": "Cell Biology",
+        "difficulty": "Medium",
+        "marks": 6
+      },
+      {
+        "question": "Solve the system of equations:\n2x + y = 10\n3x - 2y = 5",
+        "subject": "Mathematics",
+        "topic": "Algebra",
+        "difficulty": "Hard",
+        "marks": 7
+      },
+      {
+        "question": "What is the capital of Canada",
+        "subject": "Geography",
+        "topic": "Countries",
+        "difficulty": "Easy",
+        "marks": 5
+      },
+    {
+      "question": "What is the square of 9",
+      "subject": "Mathematics",
+      "topic": "Algebra",
+      "difficulty": "Easy",
+      "marks": 5
+    },
+    {
+      "question": "Name the layers of the Earth's atmosphere",
+      "subject": "Geography",
+      "topic": "Atmosphere",
+      "difficulty": "Medium",
+      "marks": 10
+    },
+    {
+      "question": "Explain the theory of relativity",
+      "subject": "Physics",
+      "topic": "Relativity",
+      "difficulty": "Hard",
+      "marks": 15
+    },
+    {
+      "question": "What is the capital of Australia",
+      "subject": "Geography",
+      "topic": "Countries",
+      "difficulty": "Easy",
+      "marks": 5
+    },
+    {
+      "question": "List the prime numbers less than 20",
+      "subject": "Mathematics",
+      "topic": "Number Theory",
+      "difficulty": "Medium",
+      "marks": 10
+    },
+        {
+          "question": "Derive the formula for the area of a circle using calculus",
+          "subject": "Mathematics",
+          "topic": "Calculus",
+          "difficulty": "Hard",
+          "marks": 10
+        },
+        {
+          "question": "Explain the principles of quantum entanglement",
+          "subject": "Physics",
+          "topic": "Quantum Mechanics",
+          "difficulty": "Hard",
+          "marks": 10
+        },
+        {
+          "question": "Discuss the ethical implications of artificial intelligence",
+          "subject": "Computer Science",
+          "topic": "Artificial Intelligence",
+          "difficulty": "Hard",
+          "marks": 10
+        },
+        {
+          "question": "Prove the Riemann Hypothesis or provide a counterexample",
+          "subject": "Mathematics",
+          "topic": "Number Theory",
+          "difficulty": "Hard",
+          "marks": 10
+        },
+        {
+          "question": "Analyze the economic impact of a pandemic on global markets",
+          "subject": "Economics",
+          "topic": "Global Markets",
+          "difficulty": "Hard",
+          "marks": 10
+        },
+        {
+            "question": "Examine the role of mitochondria in cellular energy production",
+            "subject": "Biology",
+            "topic": "Cell Biology",
+            "difficulty": "Hard",
+            "marks": 8
+          },
+          {
+            "question": "Discuss the impact of climate change on biodiversity",
+            "subject": "Environmental Science",
+            "topic": "Climate Change",
+            "difficulty": "Hard",
+            "marks": 8
+          },
+          {
+            "question": "Explain the principles of data encryption in cybersecurity",
+            "subject": "Computer Science",
+            "topic": "Cybersecurity",
+            "difficulty": "Hard",
+            "marks": 8
+          },
+          {
+            "question": "Analyze the historical context and consequences of the Industrial Revolution",
+            "subject": "History",
+            "topic": "Industrial Revolution",
+            "difficulty": "Hard",
+            "marks": 8
+          },
+          {
+            "question": "Evaluate the impact of social media on modern society",
+            "subject": "Sociology",
+            "topic": "Social Media",
+            "difficulty": "Hard",
+            "marks": 8
+          },
+          {
+            "question": "Define the concept of inertia in physics",
+            "subject": "Physics",
+            "topic": "Classical Mechanics",
+            "difficulty": "Medium",
+            "marks": 5
+          },
+          {
+            "question": "Solve the equation 3x + 7 = 22",
+            "subject": "Mathematics",
+            "topic": "Algebra",
+            "difficulty": "Easy",
+            "marks": 5
+          },
+          {
+            "question": "Name three renewable energy sources",
+            "subject": "Environmental Science",
+            "topic": "Renewable Energy",
+            "difficulty": "Medium",
+            "marks": 5
+          },
+          {
+            "question": "Identify the major functions of the liver in the human body",
+            "subject": "Biology",
+            "topic": "Human Anatomy",
+            "difficulty": "Medium",
+            "marks": 5
+          },
+          {
+            "question": "Who is the author of 'To Kill a Mockingbird'?",
+            "subject": "Literature",
+            "topic": "American Literature",
+            "difficulty": "Easy",
+            "marks": 5
+          },
+          {
+            "question": "Explain the process of photosynthesis",
+            "subject": "Biology",
+            "topic": "Botany",
+            "difficulty": "Medium",
+            "marks": 3
+          },
+          {
+            "question": "Solve the equation 2x + 5 = 15",
+            "subject": "Mathematics",
+            "topic": "Algebra",
+            "difficulty": "Medium",
+            "marks": 3
+          },
+          {
+            "question": "Name the planets in our solar system",
+            "subject": "Astronomy",
+            "topic": "Planetary Science",
+            "difficulty": "Medium",
+            "marks": 3
+          },
+          {
+            "question": "Define the law of supply and demand",
+            "subject": "Economics",
+            "topic": "Microeconomics",
+            "difficulty": "Medium",
+            "marks": 3
+          },
+          {
+            "question": "Describe the structure of an atom",
+            "subject": "Chemistry",
+            "topic": "Atomic Structure",
+            "difficulty": "Medium",
+            "marks": 3
+          },
+          {
+            "question": "Identify and explain three types of rock formations",
+            "subject": "Geology",
+            "topic": "Earth Science",
+            "difficulty": "Medium",
+            "marks": 3
+          },
+          {
+            "question": "Discuss the causes and consequences of the French Revolution",
+            "subject": "History",
+            "topic": "French Revolution",
+            "difficulty": "Medium",
+            "marks": 3
+          },
+          {
+            "question": "Explain the concept of globalization",
+            "subject": "Political Science",
+            "topic": "Global Politics",
+            "difficulty": "Medium",
+            "marks": 3
+          },
+          {
+            "question": "Simplify the square root of 36",
+            "subject": "Mathematics",
+            "topic": "Algebra",
+            "difficulty": "Medium",
+            "marks": 3
+          },
+          {
+            "question": "Discuss the impact of deforestation on the environment",
+            "subject": "Environmental Science",
+            "topic": "Deforestation",
+            "difficulty": "Medium",
+            "marks": 3
+          },
+          {
+            "question": "Name and explain three laws of motion",
+            "subject": "Physics",
+            "topic": "Classical Mechanics",
+            "difficulty": "Medium",
+            "marks": 3
+          },
+          {
+            "question": "Identify the functions of the respiratory system",
+            "subject": "Biology",
+            "topic": "Human Anatomy",
+            "difficulty": "Medium",
+            "marks": 3
+          },
+          {
+            "question": "Explain the process of DNA replication",
+            "subject": "Biology",
+            "topic": "Genetics",
+            "difficulty": "Medium",
+            "marks": 3
+          },
+          {
+            "question": "Discuss the impact of technology on modern society",
+            "subject": "Sociology",
+            "topic": "Technology and Society",
+            "difficulty": "Medium",
+            "marks": 3
+          },
+          {
+            "question": "Solve the equation 4y - 6 = 14",
+            "subject": "Mathematics",
+            "topic": "Algebra",
+            "difficulty": "Medium",
+            "marks": 3
+          },
+          {
+            "question": "Explain the concept of continental drift",
+            "subject": "Geology",
+            "topic": "Plate Tectonics",
+            "difficulty": "Medium",
+            "marks": 3
+          },
+          {
+            "question": "Identify and explain three types of chemical reactions",
+            "subject": "Chemistry",
+            "topic": "Chemical Reactions",
+            "difficulty": "Medium",
+            "marks": 3
+          },
+          {
+            "question": "Discuss the role of women in the suffrage movement",
+            "subject": "History",
+            "topic": "Women's Suffrage",
+            "difficulty": "Medium",
+            "marks": 3
+          },
+          {
+            "question": "Name and describe three types of clouds",
+            "subject": "Meteorology",
+            "topic": "Weather",
+            "difficulty": "Medium",
+            "marks": 3
+          },
+          {
+            "question": "Define the concept of elasticity in economics",
+            "subject": "Economics",
+            "topic": "Microeconomics",
+            "difficulty": "Medium",
+            "marks": 3
+          },
+          {
+            "question": "Explain the concept of natural selection in evolution",
+            "subject": "Biology",
+            "topic": "Evolution",
+            "difficulty": "Medium",
+            "marks": 4
+          },
+          {
+            "question": "Solve the system of equations:\n2x + y = 10\n3x - 2y = 5",
+            "subject": "Mathematics",
+            "topic": "Algebra",
+            "difficulty": "Medium",
+            "marks": 4
+          },
+          {
+            "question": "Discuss the impact of air pollution on human health",
+            "subject": "Environmental Science",
+            "topic": "Air Pollution",
+            "difficulty": "Medium",
+            "marks": 4
+          },
+          {
+            "question": "Explain the concept of market equilibrium in economics",
+            "subject": "Economics",
+            "topic": "Microeconomics",
+            "difficulty": "Medium",
+            "marks": 4
+          },
+          {
+            "question": "Identify and describe the properties of noble gases",
+            "subject": "Chemistry",
+            "topic": "Periodic Table",
+            "difficulty": "Medium",
+            "marks": 4
+          },
+          {
+            "question": "Discuss the formation and types of soil erosion",
+            "subject": "Geology",
+            "topic": "Soil Science",
+            "difficulty": "Medium",
+            "marks": 4
+          },
+          {
+            "question": "Examine the causes and consequences of the American Civil War",
+            "subject": "History",
+            "topic": "American Civil War",
+            "difficulty": "Medium",
+            "marks": 4
+          },
+          {
+            "question": "Describe the functions of the United Nations",
+            "subject": "Political Science",
+            "topic": "International Organizations",
+            "difficulty": "Medium",
+            "marks": 4
+          },
+          {
+            "question": "Simplify the expression: (2a + 3b) - (a - 2b)",
+            "subject": "Mathematics",
+            "topic": "Algebra",
+            "difficulty": "Medium",
+            "marks": 4
+          },
+          {
+            "question": "Explain the greenhouse effect and its role in climate change",
+            "subject": "Environmental Science",
+            "topic": "Climate Change",
+            "difficulty": "Medium",
+            "marks": 4
+          },
+          {
+            "question": "Discuss the mathematical foundations of quantum mechanics",
+            "subject": "Physics",
+            "topic": "Quantum Mechanics",
+            "difficulty": "Hard",
+            "marks": 8
+          },
+          {
+            "question": "Examine the impact of artificial intelligence on job automation",
+            "subject": "Computer Science",
+            "topic": "Artificial Intelligence",
+            "difficulty": "Hard",
+            "marks": 8
+          },
+          {
+            "question": "Analyze the economic implications of a global recession",
+            "subject": "Economics",
+            "topic": "Global Economy",
+            "difficulty": "Hard",
+            "marks": 8
+          },
+          {
+            "question": "Discuss the ethical challenges in genetic engineering",
+            "subject": "Biology",
+            "topic": "Genetic Engineering",
+            "difficulty": "Hard",
+            "marks": 8
+          },
+          {
+            "question": "Explain the concept of mitosis in cell division",
+            "subject": "Biology",
+            "topic": "Cell Biology",
+            "difficulty": "Medium",
+            "marks": 5
+          },
+          {
+            "question": "Solve the equation 4x - 7 = 5",
+            "subject": "Mathematics",
+            "topic": "Algebra",
+            "difficulty": "Medium",
+            "marks": 5
+          },
+          {
+            "question": "Discuss the impact of global warming on polar ice caps",
+            "subject": "Environmental Science",
+            "topic": "Climate Change",
+            "difficulty": "Medium",
+            "marks": 5
+          },
+          {
+            "question": "Explain the law of diminishing marginal utility in economics",
+            "subject": "Economics",
+            "topic": "Microeconomics",
+            "difficulty": "Medium",
+            "marks": 5
+          },
+          {
+            "question": "Identify and describe the properties of halogens",
+            "subject": "Chemistry",
+            "topic": "Periodic Table",
+            "difficulty": "Medium",
+            "marks": 5
+          },
+          {
+            "question": "Discuss the geological processes involved in the formation of mountains",
+            "subject": "Geology",
+            "topic": "Earth Science",
+            "difficulty": "Medium",
+            "marks": 5
+          },
+          {
+            "question": "Examine the causes and consequences of the Industrial Revolution",
+            "subject": "History",
+            "topic": "Industrial Revolution",
+            "difficulty": "Medium",
+            "marks": 5
+          },
+          {
+            "question": "Describe the functions of the legislative branch in a democratic government",
+            "subject": "Political Science",
+            "topic": "Government Structure",
+            "difficulty": "Medium",
+            "marks": 5
+          },
+          {
+            "question": "Simplify the expression: 3a + 2b - (a - 4b)",
+            "subject": "Mathematics",
+            "topic": "Algebra",
+            "difficulty": "Medium",
+            "marks": 5
+          },
+          {
+            "question": "Explain the process of meiosis and its role in genetic variation",
+            "subject": "Biology",
+            "topic": "Genetics",
+            "difficulty": "Medium",
+            "marks": 5
+          },
+          {
+            "question": "What is the capital of France?",
+            "subject": "Geography",
+            "topic": "Countries",
+            "difficulty": "Easy",
+            "marks": 2
+          },
+          {
+            "question": "Solve the equation 3 + 5 = ?",
+            "subject": "Mathematics",
+            "topic": "Basic Arithmetic",
+            "difficulty": "Easy",
+            "marks": 2
+          },
+          {
+            "question": "Name the largest planet in our solar system",
+            "subject": "Astronomy",
+            "topic": "Planets",
+            "difficulty": "Easy",
+            "marks": 2
+          },
+          {
+            "question": "Who wrote 'Romeo and Juliet'?",
+            "subject": "Literature",
+            "topic": "Shakespeare",
+            "difficulty": "Easy",
+            "marks": 2
+          },
+          {
+            "question": "What is the chemical symbol for water?",
+            "subject": "Chemistry",
+            "topic": "Chemical Elements",
+            "difficulty": "Easy",
+            "marks": 2
+          },
+          {
+            "question": "Who is known as the 'Father of Modern Physics'?",
+            "subject": "Physics",
+            "topic": "Scientific Figures",
+            "difficulty": "Easy",
+            "marks": 2
+          },
+          {
+            "question": "Name the process by which plants make their own food",
+            "subject": "Biology",
+            "topic": "Photosynthesis",
+            "difficulty": "Easy",
+            "marks": 2
+          },
+          {
+            "question": "What is the square of 4?",
+            "subject": "Mathematics",
+            "topic": "Basic Arithmetic",
+            "difficulty": "Easy",
+            "marks": 2
+          },
+          {
+            "question": "Who invented the telephone?",
+            "subject": "History",
+            "topic": "Inventions",
+            "difficulty": "Easy",
+            "marks": 2
+          },
+          {
+            "question": "What is the capital of Japan?",
+            "subject": "Geography",
+            "topic": "Countries",
+            "difficulty": "Easy",
+            "marks": 2
+          },
+          {
+            "question": "Name the currency of the United Kingdom",
+            "subject": "Economics",
+            "topic": "Currencies",
+            "difficulty": "Easy",
+            "marks": 2
+          },
+          {
+            "question": "Who painted the Mona Lisa?",
+            "subject": "Art",
+            "topic": "Art History",
+            "difficulty": "Easy",
+            "marks": 2
+          },
+          {
+            "question": "What is the capital of Brazil?",
+            "subject": "Geography",
+            "topic": "Countries",
+            "difficulty": "Easy",
+            "marks": 2
+          },
+          {
+            "question": "What is the chemical symbol for gold?",
+            "subject": "Chemistry",
+            "topic": "Chemical Elements",
+            "difficulty": "Easy",
+            "marks": 2
+          },
+          {
+            "question": "Who wrote 'To Kill a Mockingbird'?",
+            "subject": "Literature",
+            "topic": "American Literature",
+            "difficulty": "Easy",
+            "marks": 2
+          },
+          {
+            "question": "What is the smallest prime number?",
+            "subject": "Mathematics",
+            "topic": "Number Theory",
+            "difficulty": "Easy",
+            "marks": 2
+          },
+          {
+            "question": "Name the first human to walk on the moon",
+            "subject": "Space Exploration",
+            "topic": "Astronauts",
+            "difficulty": "Easy",
+            "marks": 2
+          },
+          {
+            "question": "What is the capital of Australia?",
+            "subject": "Geography",
+            "topic": "Countries",
+            "difficulty": "Easy",
+            "marks": 2
+          },
+          {
+            "question": "Who discovered penicillin?",
+            "subject": "Medicine",
+            "topic": "Medical Discoveries",
+            "difficulty": "Easy",
+            "marks": 2
+          },
+          {
+            "question": "Name the four seasons",
+            "subject": "Meteorology",
+            "topic": "Weather",
+            "difficulty": "Easy",
+            "marks": 2
+          },
+          {
+            "question": "What is the capital of China?",
+            "subject": "Geography",
+            "topic": "Countries",
+            "difficulty": "Easy",
+            "marks": 2
+          },
+          {
+            "question": "Who is known as the 'Father of Computer Science'?",
+            "subject": "Computer Science",
+            "topic": "Computer Pioneers",
+            "difficulty": "Easy",
+            "marks": 2
+          },
+          {
+            "question": "Name the largest mammal on Earth",
+            "subject": "Biology",
+            "topic": "Marine Biology",
+            "difficulty": "Easy",
+            "marks": 2
+          },
+          {
+            "question": "What is the capital of Russia?",
+            "subject": "Geography",
+            "topic": "Countries",
+            "difficulty": "Easy",
+            "marks": 2
+          },
+          {
+            "question": "Who painted the Starry Night?",
+            "subject": "Art",
+            "topic": "Art History",
+            "difficulty": "Easy",
+            "marks": 2
+          },
+          {
+            "question": "What is the chemical symbol for oxygen?",
+            "subject": "Chemistry",
+            "topic": "Chemical Elements",
+            "difficulty": "Easy",
+            "marks": 2
+          },
+          {
+            "question": "Name the largest ocean on Earth",
+            "subject": "Geography",
+            "topic": "Oceans",
+            "difficulty": "Easy",
+            "marks": 2
+          },
+          {
+            "question": "Who wrote 'The Great Gatsby'?",
+            "subject": "Literature",
+            "topic": "American Literature",
+            "difficulty": "Easy",
+            "marks": 2
+          },
+          {
+            "question": "What is the square root of 25?",
+            "subject": "Mathematics",
+            "topic": "Basic Arithmetic",
+            "difficulty": "Easy",
+            "marks": 2
+          },
+          {
+            "question": "What is the capital of Italy?",
+            "subject": "Geography",
+            "topic": "Countries",
+            "difficulty": "Easy",
+            "marks": 1
+          },
+          {
+            "question": "What is the sum of 3 + 4?",
+            "subject": "Mathematics",
+            "topic": "Basic Arithmetic",
+            "difficulty": "Easy",
+            "marks": 1
+          },
+          {
+            "question": "Name the third planet from the sun",
+            "subject": "Astronomy",
+            "topic": "Planets",
+            "difficulty": "Easy",
+            "marks": 1
+          },
+          {
+            "question": "Who wrote 'Hamlet'?",
+            "subject": "Literature",
+            "topic": "Shakespeare",
+            "difficulty": "Easy",
+            "marks": 1
+          },
+          {
+            "question": "What is the chemical symbol for helium?",
+            "subject": "Chemistry",
+            "topic": "Chemical Elements",
+            "difficulty": "Easy",
+            "marks": 1
+          },
+          {
+            "question": "Who is credited with the theory of relativity?",
+            "subject": "Physics",
+            "topic": "Scientific Figures",
+            "difficulty": "Easy",
+            "marks": 1
+          },
+          {
+            "question": "What is the process by which plants take in sunlight for energy?",
+            "subject": "Biology",
+            "topic": "Photosynthesis",
+            "difficulty": "Easy",
+            "marks": 1
+          },
+          {
+            "question": "What is 6 multiplied by 9?",
+            "subject": "Mathematics",
+            "topic": "Basic Arithmetic",
+            "difficulty": "Easy",
+            "marks": 1
+          },
+          {
+            "question": "Who was the first president of the United States?",
+            "subject": "History",
+            "topic": "Presidents",
+            "difficulty": "Easy",
+            "marks": 1
+          },
+          {
+            "question": "Name the currency of Japan",
+            "subject": "Economics",
+            "topic": "Currencies",
+            "difficulty": "Easy",
+            "marks": 1
+          },
+          {
+            "question": "Explain the concept of cellular respiration",
+            "subject": "Biology",
+            "topic": "Cell Biology",
+            "difficulty": "Medium",
+            "marks": 3
+          },
+          {
+            "question": "Solve the system of equations:\n3x + y = 12\n2x - 3y = 5",
+            "subject": "Mathematics",
+            "topic": "Algebra",
+            "difficulty": "Medium",
+            "marks": 3
+          },
+          {
+            "question": "Discuss the impact of deforestation on biodiversity",
+            "subject": "Environmental Science",
+            "topic": "Deforestation",
+            "difficulty": "Medium",
+            "marks": 3
+          },
+          {
+            "question": "Explain the law of demand in economics",
+            "subject": "Economics",
+            "topic": "Microeconomics",
+            "difficulty": "Medium",
+            "marks": 3
+          }
+  ]
+  
