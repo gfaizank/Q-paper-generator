@@ -19,5 +19,7 @@ The application makes use of an open source library 'pdfkit' to generate the pdf
 You can test this application by cloning this repo into your local machine and installing the dependancies along. 
 You can run the index.js file using "node index.js" command or by installing "nodemon" and entering the inputs which are subsequently asked thereby.
 
+And a question paper in pdf format will be generated adhering to the total marks and percentage distribution entered by the user.
+
 Thanks for Reading. Have a Nice Day.
 
